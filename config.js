@@ -12,30 +12,30 @@ global.APIKeys = {
 }
 global.lolhuman = 'APOLOZEA'
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = '𝙰𝙳𝚁𝙸𝙰𝙽-𝙼𝙳'
-global.namaowner = '𝙰𝙳𝚁𝙸𝙰𝙽'
+global.namabot = 'RazzBotz-MD'
+global.namaowner = 'RazzNotLonely'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.ownernomer = "6289513081052"
-global.premium = ['6289513081052']
-global.ultah = 'Maret 24, 2024'
+global.owner = ['6285782802704']
+global.ownernomer = "6285782802704"
+global.premium = ['6285782802704']
+global.ultah = 'Mei 10, 2024'
 
 //—————「 Setting Donasi 」—————//
-global.dana = '089513081052'
+global.dana = '085782802704'
 
 //—————「 Set Kebutuhan Button 」—————//
-global.email = 'azzygota24@gmail.com'
+global.email = 'tmrasyad2006.me@gmail.com'
 global.namaweb = 'TikTok'
-global.myweb = 'https://tiktok.com/@dryan.am'
+global.myweb = 'https://tiktok.com/@t.m.rasyad'
 global.region = 'Indonesia'
 global.github = 'https://github.com/AdrianTzy'
-global.mygc = 'https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10'
-global.myig = 'https://instagram.com/dryan.pu'
+global.mygc = 'https://chat.whatsapp.com/EobkPf9z4R6KVFAxTgA10R'
+global.myig = 'https://instagram.com/rsyd.jj43'
 
 //—————「 Set Wm 」—————//
-global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:𝙳𝚁𝚈𝙰𝙽𝙱𝙾𝚃'
+global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 RazzBotz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:RazzBot-MD'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
@@ -69,16 +69,16 @@ global.mess = {
 //terserah mau ubah atau nggak
 global.limitawal = {
     premium: "Infinity",
-    free: 10,
+    free: 20,
 }
 
 //—————「 Set Image 」—————//
 //global.thumb = 'https://telegra.ph/file/1537b118bad59ab8fa15e.png'
 global.thumb = fs.readFileSync('./media/image/adrian.jpg')
 global.kurome = { url: 'https://a.uguu.se/faLPPBPP.mp4' }
-global.botname = 'AdrianTzy Creator'
-global.akulaku = 'Bot By AdrianTzy'
-global.ttname = 'TikTok AdrianTzy'
+global.botname = 'RazzBotz-MD'
+global.akulaku = 'Bot By RazzNotLonely'
+global.ttname = 'TikTok RazzNotLonely'
 
 //—————「 Set Random Image Menu 」—————//
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
